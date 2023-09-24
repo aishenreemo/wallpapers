@@ -3,6 +3,5 @@ My wallpaper repository.
 
 ### acknowledgements
 
-Acknowledgment goes to the rightful owners.
-
 - [t_oo_r_oo](https://www.instagram.com/t_oo_r_oo/)
+- [Girls' Last Tour](https://en.wikipedia.org/wiki/Girls%27_Last_Tour)
