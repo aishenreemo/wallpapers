@@ -1,4 +1,4 @@
-# wallpapers
+## wallpapers
 My wallpaper repository.
 
 ### acknowledgements
